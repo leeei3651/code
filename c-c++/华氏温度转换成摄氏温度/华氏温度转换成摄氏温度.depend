@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697881141 source:c:\users\雷红军\desktop\code\华氏温度转换成摄氏温度\main.c
+	<stdio.h>
+	<stdlib.h>
+

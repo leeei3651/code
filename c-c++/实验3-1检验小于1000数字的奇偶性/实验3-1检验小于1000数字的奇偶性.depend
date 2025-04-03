@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698979465 source:c:\users\雷红军\desktop\code\实验3-1检验小于1000数字的奇偶性\main.c
+	<stdio.h>
+	<stdlib.h>
+

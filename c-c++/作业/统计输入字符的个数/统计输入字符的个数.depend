@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697167200 source:c:\users\雷红军\desktop\code\作业\统计输入字符的个数\main.c
+	<stdio.h>
+	<stdlib.h>
+

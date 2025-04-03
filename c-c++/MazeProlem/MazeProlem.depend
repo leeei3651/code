@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733470785 source:c:\users\À×ºì¾ü\desktop\code\mazeprolem\main.cpp
+	<iostream>
+	<queue>
+	<cstring>
+

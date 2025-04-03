@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733036594 source:c:\users\À×ºì¾ü\desktop\code\huffmantree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+

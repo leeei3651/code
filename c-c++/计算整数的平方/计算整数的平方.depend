@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697880429 source:c:\users\雷红军\desktop\code\计算整数的平方\main.c
+	<stdio.h>
+	<stdlib.h>
+
